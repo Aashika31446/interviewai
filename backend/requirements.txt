@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+motor
+openai
+nltk
+spacy
+textblob
+vaderSentiment
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
